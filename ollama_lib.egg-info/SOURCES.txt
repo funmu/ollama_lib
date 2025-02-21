@@ -1,0 +1,10 @@
+README.md
+setup.py
+ollama_lib/__init__.py
+ollama_lib/client.py
+ollama_lib.egg-info/PKG-INFO
+ollama_lib.egg-info/SOURCES.txt
+ollama_lib.egg-info/dependency_links.txt
+ollama_lib.egg-info/requires.txt
+ollama_lib.egg-info/top_level.txt
+tests/test_client.py
