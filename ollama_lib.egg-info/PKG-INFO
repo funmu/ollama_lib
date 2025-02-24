@@ -1,4 +1,4 @@
 Metadata-Version: 2.1
 Name: ollama_lib
-Version: 0.1.1
+Version: 0.2.3
 Requires-Dist: requests
